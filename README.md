@@ -5,7 +5,7 @@ Contributors: FakerNull0, Airon13, Assasin4568
 
 ## Credits:
 
-Original game made by outlaik
+Original game made by OutLaik
 
 TD2DR Made by Team Exe Empire
 
